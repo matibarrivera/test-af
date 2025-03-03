@@ -9,5 +9,4 @@ openpyxl==3.0.10
 pyodbc==5.0.1
 SQLAlchemy==2.0.23
 python-dotenv==1.0.0
-azure-core==1.29.6
 azure-storage-blob===12.24.1
